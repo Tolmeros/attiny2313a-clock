@@ -1,0 +1,6 @@
+
+# avra
+*.cof
+*.hex
+*.obj
+
